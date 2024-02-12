@@ -1,5 +1,5 @@
 # Necessary dependencies
 - fastAPI
 - uvicorn
-# Scripts to run
+# Scripts needed to run
 - uvicorn main:app --reload
